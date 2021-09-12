@@ -123,3 +123,11 @@ economics is about positive analysis, measuring the costs and benefits of differ
   
 ---
 ## 1.5
+
+---
+## 1.6
+
+GO TO PAGE 17 FOR IMPORTANT ECONOMIC TERMS
+
+---
+# Chapter 2
