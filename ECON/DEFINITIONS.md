@@ -46,3 +46,38 @@ Consumers decide what to buy, thus deciding what will be produced. Firms/governm
 their resources for production.
 2. **HOW** the goods will be produced is decided by firms. The trade-offs faced concern the allocation of resources.
 3. **WHO** receives the goods and services depends on income distribution within the population. More income, more purchasing power.
+
+CENTRALLY PLANNED, MARKET, AND MIXED ECONOMIES
+
+| Centrally planned economy | Market economy | Mixed economy |
+| :-----------------------: | :-----------------------: | :-----------------------: |
+| Economy in which the government decides <br/> allocation of economic resources| Economy in which the decisions of households and firms interacting <br/> in markets allocate economic resources | Economy in which most decisions result from the interaction between buyers and <br/> sellers, government intervenes in resource allocation |
+
+- in a market economy firms have to follow the wants of consumers, or go out of business,
+**consumers ultimately decide what will be produced**
+- firms compete to produce the **highest quality at the lowest price**
+
+<div align='center'>
+WHO RECEIVES WHAT IS PRODUCED? -> THOSE WHO ARE MOST WILLING AND ABLE TO BUY THEM.
+</div> <br/>
+
+EFFICIENCY AND EQUITY
+
+- **productive efficiency:** good or service is produced at the lowest possible cost ->
+  achieved with interaction between firms
+- **allocative efficiency:** production is in accordance with consumer taste ->
+  competition among firms and voluntary exchange results in most requests goods/services being produced
+- **voluntary exchange:** situation where both buyer and seller are made better off by the transaction
+
+<div align='center'>
+ALL MARKETS PROMOTE EFFICIENCY, THEY DON'T GUARANTEE IT
+</div> <br/>
+
+- **inefficiency** can arise from a variety of sources
+  - new product being produced
+  - government interference
+
+- **equity:** the fair distribution of economic benefits
+
+---
+## 1.3
