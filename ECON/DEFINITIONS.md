@@ -114,3 +114,12 @@ economics is about positive analysis, measuring the costs and benefits of differ
 
 ---
 ## 1.4
+
+| Microeconomics | Macroeconomics |
+| :-----------------------: | :-----------------------: |
+| how households and firms make choices<br/>how they interact in markets<br/>how governments intervene/influenece | economy as a whole<br/>inflation, unemployment, and economic growth|
+
+- many situations have both microeconomic and macroeconomic aspects
+  
+---
+## 1.5
