@@ -29,9 +29,9 @@ the optimal decision is to continue an action until the marginal benefits equal 
 ---
 ## 1.2
 
-SCARCITY DEMANDS THE EXISTENCE OF **TRADE-OFFS**
+### SCARCITY DEMANDS THE EXISTENCE OF **TRADE-OFFS**
 
-- **trade-off:** producing more of one good/service means producing less of another, as we'll see with [PPF's](#11)
+- **trade-off:** producing more of one good/service means producing less of another, as we'll see with [PPF's](#21)
 - **opportunity cost:** measure of trade-offs in production, defined as "the highest-valued alternative that must be given
 up to engage in that activity"
 
@@ -47,7 +47,7 @@ their resources for production.
 2. **HOW** the goods will be produced is decided by firms. The trade-offs faced concern the allocation of resources.
 3. **WHO** receives the goods and services depends on income distribution within the population. More income, more purchasing power.
 
-CENTRALLY PLANNED, MARKET, AND MIXED ECONOMIES
+### CENTRALLY PLANNED, MARKET, AND MIXED ECONOMIES
 
 | Centrally planned economy | Market economy | Mixed economy |
 | :-----------------------: | :-----------------------: | :-----------------------: |
@@ -61,7 +61,7 @@ CENTRALLY PLANNED, MARKET, AND MIXED ECONOMIES
 WHO RECEIVES WHAT IS PRODUCED? -> THOSE WHO ARE MOST WILLING AND ABLE TO BUY THEM.
 </div> <br/>
 
-EFFICIENCY AND EQUITY
+### EFFICIENCY AND EQUITY
 
 - **productive efficiency:** good or service is produced at the lowest possible cost ->
   achieved with interaction between firms
@@ -82,7 +82,7 @@ ALL MARKETS PROMOTE EFFICIENCY, THEY DON'T GUARANTEE IT
 ---
 ## 1.3
 
-ECONOMIC MODELS (OR THEORIES)
+### ECONOMIC MODELS (OR THEORIES)
 
 - models are used to male economic ideas sufficiently explicit and concrete so they can be used to make decisions.
 
@@ -101,7 +101,7 @@ ECONOMIC MODELS (OR THEORIES)
 - **hypothesis:** statement about an economic variable that is true or false
 - **casual relationship:** the hypothesis concerns a relationship in which on event CAUSES an effect
 
-POSITIVE AND NORMATIVE ANALYSIS
+### POSITIVE AND NORMATIVE ANALYSIS
 
 - **positive analysis:** analysis of WHAT IS
 - **normative analysis:** analysis of WHAT WILL BE
@@ -127,7 +127,46 @@ economics is about positive analysis, measuring the costs and benefits of differ
 ---
 ## 1.6
 
-GO TO PAGE 17 FOR IMPORTANT ECONOMIC TERMS
+### GO TO PAGE 17 FOR IMPORTANT ECONOMIC TERMS
 
 ---
 # Chapter 2
+
+- scarcity requires trade-offs
+- factors of production (economic resources) are scarce
+
+---
+## 2.1
+
+- **production possibilities frontier (_PPF_):** curve showing the maximum attainable
+  combinations of 2 goods with available resources and current technology. It is also
+  a great tool to visualize opportunity cost
+
+![Sample PPF](ppf.png)
+
+### GRAPHING A PPF
+
+to see example of writing PPF go to page 44
+
+### INCREASING MARGINAL OPPORTUNITY COST
+
+- ppf's are **bowed outwards** so changes along it are not linear
+- as you move down the ppf you experience **marginal opportunity cost** because increasing one
+  production requires larger and larger decreases in the other
+- we can see that increases (or decreases) have an upper bound, where they are no longer larger:
+
+<div align='center'>
+the more resources already devoted to an activity, the smaller the payoff to devoting additional resources to it
+</div> <br/>
+
+### ECONOMIC GROWTH
+
+- **capital stock:** amount of machinery and other physical capital available in an economy
+- at any given time, the total resources available to an economy are fixed (capital stock included)
+- **economic growth:** outward shifts in the PPF represent it because they allow the economy to increase
+  its production, can be caused by:
+  - population growth
+  - technological advancements
+
+---
+## 2.2
