@@ -142,7 +142,7 @@ economics is about positive analysis, measuring the costs and benefits of differ
   combinations of 2 goods with available resources and current technology. It is also
   a great tool to visualize opportunity cost
 
-![Sample PPF](ppf.png)
+<img src="ppf.png" alt="Sample PPF" height="500" width="500"/> <br/>
 
 ### GRAPHING A PPF
 
@@ -189,3 +189,56 @@ THE BASIS FOR TRAFE IS COMPARATIVE ADVANTAGE, NOT ABSOLUTE ADVANTAGE
 
 - specialization should occur on goods/services in which the individual, firm or country
   has a comparative advantage and trade for the other goods/services
+
+---
+## 2.3
+
+- **product market:** market for goods or services
+- **factor market:** market for factors of production (inputs for production), 4 types:
+
+| Labor | Capital | Natural resources | Entrepreneur |
+| :----------: |:----------: |:----------: |:----------: |
+| all types of work | physical capital<br/>computers, tools, buildings | land, water, oil, raw materials | business operator |
+
+### CIRCULAR FLOW OF INCOME
+
+<img src="flowincome.jpg" alt="Circular flow of income" height="500" width="500"/> <br/>
+
+- **households:** suppliers of factors of production, receive income from selling the factors
+- **firms:** suppliers of goods and services, receive funds from selling to goods and services
+- read Figure 2.6 on page 55
+- things the model doesn't take into account:
+  1. government activity
+  2. financial systems for flow of funds
+  3. trade (both in factor and product markets)
+
+<div align='center'>
+THE MARKET SYSTEM SUCCESSFULLY COORDINATES THE INDEPENDENT ACTIVITIES OF SO MANY HOUSEHOLDS AND FIRMS
+</div> <br/>
+
+### The Gains from Free Markets
+
+- **free market:** market with few government restrictions, both in production and consumption
+- FREE MARKETS ARE A BENCHMARK AGAINST ACTUAL ECONOMIES as governments intervene on all modern economies
+- Adam Smith first argued that restrictionsreduce a countries income and wealth, thereby restricting the quality of goods produced
+  
+### The Market Mechanism
+
+- the assumption must be made that individuals take actions that are most likely to make themselves better off financially
+- when buying/selling, the motivation of financial reward usually provides the best explanation for actions taken
+- customers' wants are flexible, thus the prices and firms have to be as well
+- **relative price:** price of one good/service relative to other prices, good indicator for customer taste/preference
+- **invisible hand:** Adam Smith's definition for how the market leads firms to provide consumers with the goods they want
+
+<div align='center'>
+firms respond individuallyto changes in prices by making decisions that collectively end up satisfying the preferences of consumers
+</div> <br/>
+
+### Legal basis of a Successful Market System
+
+- **protection of private property**
+- **property rights**
+- **enforcement of contracts and property rights**
+
+---
+# Chapter 3
