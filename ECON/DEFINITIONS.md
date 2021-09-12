@@ -170,3 +170,22 @@ the more resources already devoted to an activity, the smaller the payoff to dev
 
 ---
 ## 2.2
+
+- **trade:** the act of buying or selling, can be direct or indirect
+- trade allows us to go outside the bounds of PPF's, increasing both production and consumption
+
+### Specialization and Gains from trade
+
+view example on page 48 and 49 (explained much better than I coudl ever)
+
+### Absolute advantage & comparative advantage in trade
+
+- **absolute advantage:** the ability to produce more of a good/service than competitors, given the same resources
+- **comparative advantage:** the ability to produce goods/services at a lower opportunity cost than competitors
+
+<div align='center'>
+THE BASIS FOR TRAFE IS COMPARATIVE ADVANTAGE, NOT ABSOLUTE ADVANTAGE
+</div> <br/>
+
+- specialization should occur on goods/services in which the individual, firm or country
+  has a comparative advantage and trade for the other goods/services
