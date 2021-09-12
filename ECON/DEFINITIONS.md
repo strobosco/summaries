@@ -1,3 +1,32 @@
+- [Chapter 1](#chapter-1)
+  - [1.1](#11)
+  - [1.2](#12)
+    - [SCARCITY DEMANDS THE EXISTENCE OF **TRADE-OFFS**](#scarcity-demands-the-existence-of-trade-offs)
+    - [CENTRALLY PLANNED, MARKET, AND MIXED ECONOMIES](#centrally-planned-market-and-mixed-economies)
+    - [EFFICIENCY AND EQUITY](#efficiency-and-equity)
+  - [1.3](#13)
+    - [ECONOMIC MODELS (OR THEORIES)](#economic-models-or-theories)
+    - [POSITIVE AND NORMATIVE ANALYSIS](#positive-and-normative-analysis)
+  - [1.4](#14)
+  - [1.5](#15)
+  - [1.6](#16)
+    - [GO TO PAGE 17 FOR IMPORTANT ECONOMIC TERMS](#go-to-page-17-for-important-economic-terms)
+- [Chapter 2](#chapter-2)
+  - [2.1](#21)
+    - [GRAPHING A PPF](#graphing-a-ppf)
+    - [INCREASING MARGINAL OPPORTUNITY COST](#increasing-marginal-opportunity-cost)
+    - [ECONOMIC GROWTH](#economic-growth)
+  - [2.2](#22)
+    - [Specialization and Gains from trade](#specialization-and-gains-from-trade)
+    - [Absolute advantage & comparative advantage in trade](#absolute-advantage--comparative-advantage-in-trade)
+  - [2.3](#23)
+    - [CIRCULAR FLOW OF INCOME](#circular-flow-of-income)
+    - [The Gains from Free Markets](#the-gains-from-free-markets)
+    - [The Market Mechanism](#the-market-mechanism)
+    - [Legal basis of a Successful Market System](#legal-basis-of-a-successful-market-system)
+- [Chapter 3](#chapter-3)
+
+
 # Chapter 1
 
 - **scarcity:** unlimited wants exceed limited resources -> wants can't be fulfilled
