@@ -1,3 +1,6 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
 - [Chapter 1](#chapter-1)
   - [1.1](#11)
   - [1.2](#12)
