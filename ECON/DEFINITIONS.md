@@ -81,3 +81,36 @@ ALL MARKETS PROMOTE EFFICIENCY, THEY DON'T GUARANTEE IT
 
 ---
 ## 1.3
+
+ECONOMIC MODELS (OR THEORIES)
+
+- models are used to male economic ideas sufficiently explicit and concrete so they can be used to make decisions.
+
+- in order to **develop a model**:
+  1. decide on the assumptions to use
+  2. formulate a testable hypothesis
+  3. use economic data to test hypothesis
+  4. revise model (if test fails)
+  5. retain the model to answer similar questions in the future
+
+- **behavioral assumptions** about a parties **motives** are at the base of these models
+  - firms -> maximize profits
+  - consumers -> maximize benefits/satisfaction
+
+- **economic variable:** something measureable that can have different values (people employed in manufacturing)
+- **hypothesis:** statement about an economic variable that is true or false
+- **casual relationship:** the hypothesis concerns a relationship in which on event CAUSES an effect
+
+POSITIVE AND NORMATIVE ANALYSIS
+
+- **positive analysis:** analysis of WHAT IS
+- **normative analysis:** analysis of WHAT WILL BE
+
+<div align='center'>
+economics is about positive analysis, measuring the costs and benefits of different courses of action
+</div> <br/>
+
+- economics is a social science concerned with how decisions of individuals explain different outcomes
+
+---
+## 1.4
