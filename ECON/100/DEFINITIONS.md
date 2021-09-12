@@ -28,6 +28,9 @@
     - [The Market Mechanism](#the-market-mechanism)
     - [Legal basis of a Successful Market System](#legal-basis-of-a-successful-market-system)
 - [Chapter 3](#chapter-3)
+  - [3.1 DEMAND](#31-demand)
+    - [DEMAND SCHEDULES & CURVES](#demand-schedules--curves)
+    - [VARIABLES THAT SHIFT DEMAND](#variables-that-shift-demand)
 
 
 # Chapter 1
@@ -274,3 +277,68 @@ firms respond individuallyto changes in prices by making decisions that collecti
 
 ---
 # Chapter 3
+
+- the market that will be used is a **perfectly competitive market:** a market in which:
+  1. there are manu buyers and sellers
+  2. all firms sell identical products
+  3. no entry barriers for new firms
+
+## 3.1 DEMAND
+
+- the most successful businesses are the ones that respond best to consumer demand
+- a customer is limited by desire and ability (purchasing power)
+
+### DEMAND SCHEDULES & CURVES
+
+- **demand schedule:** table showing relationship between price and quantity demanded
+- **quantity demanded:** amount a consumer is willing and able to purchase at a given price
+
+| Price | Quantity |
+| :-----: | :-----: |
+| $2.50 | 3 |
+| $2 | 4|
+| $1.50| 5 |
+| $1 | 6 |
+| $0.50 | 7 |
+
+- **market demand:** demand by all consumers (total demand)
+- **demand curve:** curve that shows the relationshipi between price and quantity demanded
+
+<img src="dmdcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
+
+**LAW OF DEMAND**
+<div align='center'>
+HOLDING EVERYTHING ELSE CONSTANT, WHEN THE PRICE FALLS, THE QUANTITY DEMANDED INCREASES <br/>
+THE DEMAND CURVE ALWAYS HAS A DOWNWARD SLOPE
+</div> <br/>
+
+- **substitution effect:** the change in quantity demanded that results because a change in price
+  makes the good/service more or less expensive relative to its substitutes
+- **substitute:** goods/services that can be used for the same purpose
+- **income effect:** the change in quantity demanded because a change in price has an impact on a
+  consumers' purchasing power
+- **puchasing power:** quantity of goods a consumer can buy with a fixed amount of income
+- these 2 effects occur simultaneously whenever a price changes
+- **Ceteris paribus:** the requirement that, when analyzing the relationship between 2 variables,
+  other variables must be held constant
+- **increase/decrease in demand:** a shift of the demand curve
+- **increase/decrease in quantity demanded:** movment along a demand curve
+
+### VARIABLES THAT SHIFT DEMAND
+
+- income
+- prices of related goods, substitutes and complements
+- tastes
+- population & demographics
+- expected future prices
+<br/>
+
+- **normal good:** good/service for which demand increases as income _increases_
+- **inferior good:** good/service for which demand increases as income _falls_
+- **substitute:** goods/services that can be used for the same purpose
+- **complements:** goods/services that are used together
+
+<img src="dmdshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
+
+- **change in demand:** refers to the shift of the demand curve when one of the variables,
+  other than price, changes 
