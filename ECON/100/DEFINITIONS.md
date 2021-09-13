@@ -36,7 +36,7 @@
     - [VARIABLES THAT SHIFT SUPPLY](#variables-that-shift-supply)
   - [3.3 EQUILIBRIUM](#33-equilibrium)
     - [SURPLUSES & SHORTAGES](#surpluses--shortages)
-  - [3.4](#34)
+  - [3.4 EFFECTS ON SUPPLY & DEMAND SHIFTS](#34-effects-on-supply--demand-shifts)
 
 
 # Chapter 1
@@ -405,4 +405,8 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 | prices are cut | prices are raised |
 
 ---
-## 3.4
+## 3.4 EFFECTS ON SUPPLY & DEMAND SHIFTS
+
+<img src="supdemtable.jpg" alt="Demand curve" height="400" width="800"/> <br/>
+
+- for more info go to page 90
