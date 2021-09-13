@@ -31,6 +31,9 @@
   - [3.1 DEMAND](#31-demand)
     - [DEMAND SCHEDULES & CURVES](#demand-schedules--curves)
     - [VARIABLES THAT SHIFT DEMAND](#variables-that-shift-demand)
+  - [3.2 SUPPLY](#32-supply)
+    - [SUPPLY SCHEDULES & CURVES](#supply-schedules--curves)
+    - [VARIABLES THAT SHIFT SUPPLY](#variables-that-shift-supply)
 
 
 # Chapter 1
@@ -341,4 +344,44 @@ THE DEMAND CURVE ALWAYS HAS A DOWNWARD SLOPE
 <img src="dmdshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
 
 - **change in demand:** refers to the shift of the demand curve when one of the variables,
+  other than price, changes 
+
+## 3.2 SUPPLY
+
+- **quantity supplied:** the amount a firm is willing and able to supply at a given price
+- profitability rises with price
+
+### SUPPLY SCHEDULES & CURVES
+
+| Price | Quantity |
+| :-----: | :-----: |
+| $2.50 | 7 |
+| $2 | 6 |
+| $1.50| 5 |
+| $1 | 4 |
+| $0.50 | 3 |
+
+- **supply schedule:** a table that shows the relationship betwenn price and quantity supplied
+- **supply curve:** curving showing the relationship between price and quantity supplied
+
+<img src="supcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
+
+**LAW OF SUPPLY**
+<div align='center'>
+HOLDING EVERYTHING ELSE CONSTANT, WHEN THE PRICE INCREASES, THE QUANTITY SUPPLIED INCREASES <br/>
+THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
+</div> <br/>
+
+### VARIABLES THAT SHIFT SUPPLY
+
+- prices of inputs
+- technological change
+- prices of related goods, substitutes and complements
+- number of firms on the market
+- expected future prices
+<br/>
+
+<img src="supshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
+
+- **change in supply:** refers to the shift of the supply curve when one of the variables,
   other than price, changes 
