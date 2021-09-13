@@ -34,6 +34,9 @@
   - [3.2 SUPPLY](#32-supply)
     - [SUPPLY SCHEDULES & CURVES](#supply-schedules--curves)
     - [VARIABLES THAT SHIFT SUPPLY](#variables-that-shift-supply)
+  - [3.3 EQUILIBRIUM](#33-equilibrium)
+    - [SURPLUSES & SHORTAGES](#surpluses--shortages)
+  - [3.4](#34)
 
 
 # Chapter 1
@@ -384,4 +387,22 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 <img src="supshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
 
 - **change in supply:** refers to the shift of the supply curve when one of the variables,
-  other than price, changes 
+  other than price, changes
+
+---
+## 3.3 EQUILIBRIUM
+
+- **market equilibrium:** condition in which quantity demanded = quantity supplied
+- **competitive market equilibrium:** market equilibrium with manu buyers and sellers
+
+### SURPLUSES & SHORTAGES
+
+<img src="shosur.jpg" alt="Demand curve" height="500" width="600"/> <br/>
+
+| Surplus | Shortage |
+| :-------: | :-------: |
+| Q supplied<br/>><br/>Q demanded | Q demanded<br/>><br/>Q supplied|
+| prices are cut | prices are raised |
+
+---
+## 3.4
