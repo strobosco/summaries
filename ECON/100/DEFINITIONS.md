@@ -46,6 +46,10 @@
     - [ECONOMIC SURPLUS](#economic-surplus)
     - [DEADWEIGHT LOSS](#deadweight-loss)
     - [ECONOMIC SURPLUS AND EFFICIENCY](#economic-surplus-and-efficiency)
+  - [4.3 GOVERNMENT INTERVENTION](#43-government-intervention)
+    - [PRICE FLOORS](#price-floors)
+    - [PRICE CEILINGS](#price-ceilings)
+    - [BLACK MARKETS](#black-markets)
 
 
 # Chapter 1
@@ -478,3 +482,20 @@ and the PRICE paid to produce/buy the good or service
 - **economic efficiency:** market outcome in which the marginal benefit to consumers of the last unit produced
   is equal to its marginal cost of production and in which the sum of consumer surplus and producer surplus is
   at a maximum
+
+## 4.3 GOVERNMENT INTERVENTION
+
+- up until now we've talked about global benefits, not about individuals (the single consumer/producer)
+- government intervention can happen when imbalances are present
+
+### PRICE FLOORS
+
+- **price floor:** minimun legal price for a good
+
+### PRICE CEILINGS
+
+- **price ceiling:** maximum legal price for a good
+
+### BLACK MARKETS
+
+- **black market:** market in which buying/selling prices violate government regulations
