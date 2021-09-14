@@ -128,7 +128,7 @@ ALL MARKETS PROMOTE EFFICIENCY, THEY DON'T GUARANTEE IT
 </div> <br/>
 
 - **inefficiency** can arise from a variety of sources
-  - new product being produced
+  - new product being produced -> takes time to optimize
   - government interference
 
 - **equity:** the fair distribution of economic benefits
