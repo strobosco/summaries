@@ -37,6 +37,12 @@
   - [3.3 EQUILIBRIUM](#33-equilibrium)
     - [SURPLUSES & SHORTAGES](#surpluses--shortages)
   - [3.4 EFFECTS ON SUPPLY & DEMAND SHIFTS](#34-effects-on-supply--demand-shifts)
+- [Chapter 4 SURPLUS](#chapter-4-surplus)
+  - [4.1](#41)
+    - [CONSUMER SURPLUS](#consumer-surplus)
+    - [PRODUCER SURPLUS](#producer-surplus)
+  - [4.2](#42)
+    - [MC = MB IN COMPETITIVE EQUILIBRIUM](#mc--mb-in-competitive-equilibrium)
 
 
 # Chapter 1
@@ -410,3 +416,42 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 <img src="supdemtable.jpg" alt="Demand curve" height="400" width="800"/> <br/>
 
 - for more info go to page 90
+
+---
+# Chapter 4 SURPLUS
+
+- customers want to pay the least, sellers want to earn the most
+- **price ceiling:** legally determined maximum price sellers may charge
+- **price floor:** legally determined minimun sellers may receive
+
+## 4.1
+
+### CONSUMER SURPLUS
+
+- **consumer surplus:** highest price a consumer is willing to pay - actual price paid for good/service
+- **marginal benefit:** additional benefit to a consumer from consuming one more unit of good/service
+- graphically represented as _area below the demand curve and above the market price_:
+
+<img src="csurp.jpg" alt="Consumer surplus" height="500" width="600"/> <br/>
+
+### PRODUCER SURPLUS
+
+- **marginal cost:** additional cost of producing one more unit of good/service
+- **producer surplus:** lowest price willing to accept - actual price received
+- graphically represented as _area above the supply curve and below the market price_:
+
+<img src="psurp.jpg" alt="Consumer surplus" height="500" width="600"/> <br/>
+
+<div align='center'>
+consumer surplus measures the NET benefit to consumers from participating in a market, not TOTAL benefit <br/>
+producer surplus measures the NET benefit to producers from participating in a marlet, not TOTAL benefit <br/>
+NET refers to the difference between the TOTAL benefit (which would be the COMPLETE areas above/below the curves)
+and the PRICE paid to produce/buy the good or service
+</div>
+
+## 4.2
+
+- economic efficiency can be though in terms of marginal benefits and costs or surplus value, both consumer and producer
+
+### MC = MB IN COMPETITIVE EQUILIBRIUM
+
