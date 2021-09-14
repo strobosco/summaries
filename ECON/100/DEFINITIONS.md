@@ -171,7 +171,7 @@ economics is about positive analysis, measuring the costs and benefits of differ
 
 | Microeconomics | Macroeconomics |
 | :-----------------------: | :-----------------------: |
-| how households and firms make choices<br/>how they interact in markets<br/>how governments intervene/influenece | economy as a whole<br/>inflation, unemployment, and economic growth|
+| how households and firms make choices<br/>how they interact in markets<br/>how governments intervene/influenece | economy as a whole<br/>(inflation, unemployment, and economic growth) |
 
 - many situations have both microeconomic and macroeconomic aspects
   
