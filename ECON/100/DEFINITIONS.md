@@ -153,7 +153,7 @@ ALL MARKETS PROMOTE EFFICIENCY, THEY DON'T GUARANTEE IT
 
 - **economic variable:** something measureable that can have different values (people employed in manufacturing)
 - **hypothesis:** statement about an economic variable that is true or false
-- **casual relationship:** the hypothesis concerns a relationship in which on event CAUSES an effect
+- **casual relationship:** the hypothesis concerns a relationship in which one event CAUSES an effect
 
 ### POSITIVE AND NORMATIVE ANALYSIS
 
