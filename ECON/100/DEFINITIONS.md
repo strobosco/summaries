@@ -43,6 +43,9 @@
     - [PRODUCER SURPLUS](#producer-surplus)
   - [4.2](#42)
     - [MC = MB IN COMPETITIVE EQUILIBRIUM](#mc--mb-in-competitive-equilibrium)
+    - [ECONOMIC SURPLUS](#economic-surplus)
+    - [DEADWEIGHT LOSS](#deadweight-loss)
+    - [ECONOMIC SURPLUS AND EFFICIENCY](#economic-surplus-and-efficiency)
 
 
 # Chapter 1
@@ -455,3 +458,23 @@ and the PRICE paid to produce/buy the good or service
 
 ### MC = MB IN COMPETITIVE EQUILIBRIUM
 
+- equilibrium in a competitive market results in the economically efficient level of output, at which marginal benefit equals marginal cost
+
+### ECONOMIC SURPLUS
+
+- **economic surplus:** the sum of consumer surplus and producer surplus
+
+<img src="esurp.jpg" alt="Economic surplus" height="500" width="600"/> <br/>
+
+### DEADWEIGHT LOSS
+
+- **deadweight loss:** the reduction in economic surplus resulting from the market not being in competitive equilibrium
+
+<img src="dloss.jpg" alt="Deadweight loss" height="500" width="600"/> <br/>
+
+### ECONOMIC SURPLUS AND EFFICIENCY
+
+- equilibrium in a competitive market results in the great attainable amount of economic surplus
+- **economic efficiency:** market outcome in which the marginal benefit to consumers of the last unit produced
+  is equal to its marginal cost of production and in which the sum of consumer surplus and producer surplus is
+  at a maximum
