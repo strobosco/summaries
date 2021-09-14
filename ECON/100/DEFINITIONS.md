@@ -120,7 +120,7 @@ WHO RECEIVES WHAT IS PRODUCED? -> THOSE WHO ARE MOST WILLING AND ABLE TO BUY THE
 - **productive efficiency:** good or service is produced at the lowest possible cost ->
   achieved with interaction between firms
 - **allocative efficiency:** production is in accordance with consumer taste ->
-  competition among firms and voluntary exchange results in most requests goods/services being produced
+  competition among firms and voluntary exchange results in most requested goods/services being produced
 - **voluntary exchange:** situation where both buyer and seller are made better off by the transaction
 
 <div align='center'>
