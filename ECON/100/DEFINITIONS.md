@@ -138,7 +138,7 @@ ALL MARKETS PROMOTE EFFICIENCY, THEY DON'T GUARANTEE IT
 
 ### ECONOMIC MODELS (OR THEORIES)
 
-- models are used to male economic ideas sufficiently explicit and concrete so they can be used to make decisions.
+- models are used to make economic ideas sufficiently explicit and concrete so they can be used to make decisions.
 
 - in order to **develop a model**:
   1. decide on the assumptions to use
