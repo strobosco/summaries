@@ -50,6 +50,8 @@
     - [PRICE FLOORS](#price-floors)
     - [PRICE CEILINGS](#price-ceilings)
     - [BLACK MARKETS](#black-markets)
+  - [4.4 ECONOMIC EFFECT OF TAXES](#44-economic-effect-of-taxes)
+    - [WHO PAYS THE TAX?](#who-pays-the-tax)
 
 
 # Chapter 1
@@ -499,3 +501,17 @@ and the PRICE paid to produce/buy the good or service
 ### BLACK MARKETS
 
 - **black market:** market in which buying/selling prices violate government regulations
+
+## 4.4 ECONOMIC EFFECT OF TAXES
+
+- **public finance:** field of economics that analyzes taxes
+- **excess tax burden:** deadweight loss caused by implementing a tax
+- **tax efficiency:** determined by the ratio between excess burden and tax revenue
+
+### WHO PAYS THE TAX?
+
+- **tax incidence:** the actual division of the burden between buyers and sellers in the market
+
+<div align='center'>
+legal obligation to pay the tax does not equal bearing the burden of paying the tax
+</div>
