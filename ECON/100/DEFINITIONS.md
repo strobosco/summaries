@@ -300,7 +300,7 @@ firms respond individuallyto changes in prices by making decisions that collecti
 # Chapter 3
 
 - the market that will be used is a **perfectly competitive market:** a market in which:
-  1. there are manu buyers and sellers
+  1. there are many buyers and sellers
   2. all firms sell identical products
   3. no entry barriers for new firms
 
@@ -323,7 +323,7 @@ firms respond individuallyto changes in prices by making decisions that collecti
 | $0.50 | 7 |
 
 - **market demand:** demand by all consumers (total demand)
-- **demand curve:** curve that shows the relationshipi between price and quantity demanded
+- **demand curve:** curve that shows the relationship between price and quantity demanded
 
 <img src="dmdcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
 
@@ -338,7 +338,7 @@ THE DEMAND CURVE ALWAYS HAS A DOWNWARD SLOPE
 - **substitute:** goods/services that can be used for the same purpose
 - **income effect:** the change in quantity demanded because a change in price has an impact on a
   consumers' purchasing power
-- **puchasing power:** quantity of goods a consumer can buy with a fixed amount of income
+- **purchasing power:** quantity of goods a consumer can buy with a fixed amount of income
 - these 2 effects occur simultaneously whenever a price changes
 - **Ceteris paribus:** the requirement that, when analyzing the relationship between 2 variables,
   other variables must be held constant
@@ -408,7 +408,7 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 ## 3.3 EQUILIBRIUM
 
 - **market equilibrium:** condition in which quantity demanded = quantity supplied
-- **competitive market equilibrium:** market equilibrium with manu buyers and sellers
+- **competitive market equilibrium:** market equilibrium with many buyers and sellers
 
 ### SURPLUSES & SHORTAGES
 
