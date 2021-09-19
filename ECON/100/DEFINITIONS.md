@@ -198,7 +198,7 @@ economics is about positive analysis, measuring the costs and benefits of differ
   combinations of 2 goods with available resources and current technology. It is also
   a great tool to visualize opportunity cost
 
-<img src="ppf.png" alt="Sample PPF" height="500" width="500"/> <br/>
+<img src="img/ppf.png" alt="Sample PPF" height="500" width="500"/> <br/>
 
 ### GRAPHING A PPF
 
@@ -258,7 +258,7 @@ THE BASIS FOR TRAFE IS COMPARATIVE ADVANTAGE, NOT ABSOLUTE ADVANTAGE
 
 ### CIRCULAR FLOW OF INCOME
 
-<img src="flowincome.jpg" alt="Circular flow of income" height="500" width="500"/> <br/>
+<img src="img/flowincome.jpg" alt="Circular flow of income" height="500" width="500"/> <br/>
 
 - **households:** suppliers of factors of production, receive income from selling the factors
 - **firms:** suppliers of goods and services, receive funds from selling to goods and services
@@ -325,7 +325,7 @@ firms respond individuallyto changes in prices by making decisions that collecti
 - **market demand:** demand by all consumers (total demand)
 - **demand curve:** curve that shows the relationship between price and quantity demanded
 
-<img src="dmdcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
+<img src="img/dmdcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
 
 **LAW OF DEMAND**
 <div align='center'>
@@ -359,7 +359,7 @@ THE DEMAND CURVE ALWAYS HAS A DOWNWARD SLOPE
 - **substitute:** goods/services that can be used for the same purpose
 - **complements:** goods/services that are used together
 
-<img src="dmdshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
+<img src="img/dmdshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
 
 - **change in demand:** refers to the shift of the demand curve when one of the variables,
   other than price, changes 
@@ -382,7 +382,7 @@ THE DEMAND CURVE ALWAYS HAS A DOWNWARD SLOPE
 - **supply schedule:** a table that shows the relationship betwenn price and quantity supplied
 - **supply curve:** curving showing the relationship between price and quantity supplied
 
-<img src="supcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
+<img src="img/supcurve.png" alt="Demand curve" height="500" width="700"/> <br/>
 
 **LAW OF SUPPLY**
 <div align='center'>
@@ -399,7 +399,7 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 - expected future prices
 <br/>
 
-<img src="supshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
+<img src="img/supshift.jpg" alt="Demand curve" height="700" width="500"/> <br/>
 
 - **change in supply:** refers to the shift of the supply curve when one of the variables,
   other than price, changes
@@ -412,7 +412,7 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 
 ### SURPLUSES & SHORTAGES
 
-<img src="shosur.jpg" alt="Demand curve" height="500" width="600"/> <br/>
+<img src="img/shosur.jpg" alt="Demand curve" height="500" width="600"/> <br/>
 
 | Surplus | Shortage |
 | :-------: | :-------: |
@@ -422,7 +422,7 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 ---
 ## 3.4 EFFECTS ON SUPPLY & DEMAND SHIFTS
 
-<img src="supdemtable.jpg" alt="Demand curve" height="400" width="800"/> <br/>
+<img src="img/supdemtable.jpg" alt="Demand curve" height="400" width="800"/> <br/>
 
 - for more info go to page 90
 
@@ -441,7 +441,7 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 - **marginal benefit:** additional benefit to a consumer from consuming one more unit of good/service
 - graphically represented as _area below the demand curve and above the market price_:
 
-<img src="csurp.jpg" alt="Consumer surplus" height="500" width="600"/> <br/>
+<img src="img/csurp.jpg" alt="Consumer surplus" height="500" width="600"/> <br/>
 
 ### PRODUCER SURPLUS
 
@@ -449,7 +449,7 @@ THE DEMAND CURVE ALWAYS HAS AN UPWARD SLOPE
 - **producer surplus:** lowest price willing to accept - actual price received
 - graphically represented as _area above the supply curve and below the market price_:
 
-<img src="psurp.jpg" alt="Consumer surplus" height="500" width="600"/> <br/>
+<img src="img/psurp.jpg" alt="Consumer surplus" height="500" width="600"/> <br/>
 
 <div align='center'>
 consumer surplus measures the NET benefit to consumers from participating in a market, not TOTAL benefit <br/>
@@ -470,13 +470,13 @@ and the PRICE paid to produce/buy the good or service
 
 - **economic surplus:** the sum of consumer surplus and producer surplus
 
-<img src="esurp.jpg" alt="Economic surplus" height="500" width="600"/> <br/>
+<img src="img/esurp.jpg" alt="Economic surplus" height="500" width="600"/> <br/>
 
 ### DEADWEIGHT LOSS
 
 - **deadweight loss:** the reduction in economic surplus resulting from the market not being in competitive equilibrium
 
-<img src="dloss.jpg" alt="Deadweight loss" height="500" width="600"/> <br/>
+<img src="img/dloss.jpg" alt="Deadweight loss" height="500" width="600"/> <br/>
 
 ### ECONOMIC SURPLUS AND EFFICIENCY
 
